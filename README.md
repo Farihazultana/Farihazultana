@@ -67,5 +67,5 @@
 
 ### Top Commits
 <p align="center">
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farihazultana&theme=github&utcOffset=8" />
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farihazultana&theme=github&utcOffset=6" />
 </p>
