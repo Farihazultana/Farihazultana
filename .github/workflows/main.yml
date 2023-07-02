@@ -2,25 +2,15 @@ name: Main
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  test-workflow:
-    name: Main workflow
+  update-charts:
+    name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: ./
+      - uses: farihazultana/@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: "✅"
-          BRANCH_NAME: "main"
-          IMAGES_FOLDER: "generated"
-          GIT_USER_EMAIL: "farihasultana237@gmail.com"
-          GIT_USER_NAME: "Fariha Sultana"
           
