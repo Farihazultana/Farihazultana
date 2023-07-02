@@ -1,16 +1,19 @@
-name: Wakatime Charts
+name: Waka Readme
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # runs at every 12AM UTC
 
 jobs:
-  update-charts:
-    name: Update wakatime stats charts
+  update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: dvjn/wakatime-charts@master
+      - uses: farihazultana/farihazultana@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #REPOSITORY: <gh_username/gh_username>
