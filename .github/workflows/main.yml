@@ -1,4 +1,4 @@
-name: Main
+name: Wakatime Charts
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: farihazultana/farihazultana/@main
+      - uses: dvjn/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
+      
