@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fariha Sultana</h1>
 <h3 align="center">A passionate Mobile App Developer from Bangladesh!</h3>
 <p align="center">
-  <p align="right"><img align="right" height="250" width="350" alt="Fariha Sultana" style="margin-top: 10px" src="./me.gif" /></p>
+  <p align="right"><img align="right" height="250" width="350" alt="Fariha Sultana" style="margin-top: 10px" src="./giphy.gif" /></p>
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/Farihazultana/Coffee-Order-App">Coffee Order App</a></li>
     <li>🌱 I’m currently learning <strong>Flutter Cross Platform</strong></li>
