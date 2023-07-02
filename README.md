@@ -54,7 +54,7 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farihazultana&theme=github" />
 </p>
 
-### Github Profile Summary Card
+### GitHub Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farihazultana&theme=github"/>
 </p>
