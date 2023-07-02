@@ -64,10 +64,15 @@
 <!--END_SECTION:waka-->
 ### WakaTime Stat
 
+<div align="center">
+
 ![Weekly Language Stats](https://raw.githubusercontent.com/farihazultana/farihazultana/main/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
 ![Weekly Project Stats](https://raw.githubusercontent.com/farihazultana/farihazultana/main/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")
 
 ---
+
+</div>
+
 
 ### Top Languages
 <p align="center">
