@@ -59,6 +59,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farihazultana&theme=github"/>
 </p>
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+### WakaTime Stat
+
+![Weekly Language Stats](https://raw.githubusercontent.com/farihazultana/farihazultana/main/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
+![Weekly Project Stats](https://raw.githubusercontent.com/farihazultana/farihazultana/main/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")
+
+---
+
 ### Top Languages
 <p align="center">
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farihazultana&theme=github" />
