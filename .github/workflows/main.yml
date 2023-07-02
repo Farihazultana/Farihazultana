@@ -1,4 +1,4 @@
-name: farihazultana
+name: Main
 
 on:
   workflow_dispatch:
