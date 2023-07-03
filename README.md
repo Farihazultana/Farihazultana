@@ -65,7 +65,7 @@
 ### WakaTime Stat
 
 <div align="center">
-![WakaTime Graph](https://raw.githubusercontent.com/farihazultana/farihazultana/main/images/wakatime_graph.png)
+![WakaTime Graph](https://raw.githubusercontent.com/farihazultana/Farihazultana/main/images/wakatime_codingActivity.png)
 	
 ---
 
