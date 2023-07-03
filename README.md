@@ -60,16 +60,7 @@
 </p>
 
 ---
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-### WakaTime Stat
 
-<div align="center">
-![WakaTime Graph](https://raw.githubusercontent.com/farihazultana/Farihazultana/main/images/wakatime_codingActivity.png)
-	
----
-
-</div>
 
 
 ### Top Languages
