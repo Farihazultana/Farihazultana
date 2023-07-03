@@ -4,7 +4,7 @@ import requests
 API_URL = 'https://wakatime.com/api/v1/users/current/summaries'
 
 # Your WakaTime API key
-API_KEY = 'waka_88da5b3f-1248-4f2a-9d6a-922df27eceaf'
+API_KEY = 'waka_aa481ae6-2310-4471-9fd7-9201f6df0c64'
 
 # Get coding activity summary for the last 7 days
 response = requests.get(f'{API_URL}?api_key={API_KEY}&range=last_7_days')
