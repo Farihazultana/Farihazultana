@@ -65,11 +65,8 @@
 ### WakaTime Stat
 
 <div align="center">
-
-![Weekly Language Stats](https://raw.githubusercontent.com/farihazultana/farihazultana/main/images/wakatime_weekly_language_stats.svg)
-![WakaTime Graph](https://raw.githubusercontent.com/farihazultana/farihazultana/main/images/wakatime_weekly_project_stats.svg)
-
-
+![WakaTime Graph](https://raw.githubusercontent.com/farihazultana/farihazultana/main/images/wakatime_graph.png)
+	
 ---
 
 </div>
