@@ -13,7 +13,7 @@
   </ul>
 </p>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=farihazultana&label=Profile%20views&color=0e75b6&style=flat" alt="farihazultana"/> 
-</span><a href="https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg" alt="Total time coded since Jun 19 2023" /></a>
+</span><a href="[https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb](https://wakatime.com/dashboard)"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg" alt="Total time coded since Jun 19 2023" /></a>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/farihazultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farihazultana" height="30" width="40" /></a>
