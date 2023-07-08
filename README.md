@@ -49,13 +49,13 @@
 
 ### GitHub Stats
 <p align="left">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farihazultana&show_icons=true&theme=github" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farihazultana&theme=github" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farihazultana&theme=synthwave&show_icons=false&hide_border=true&count_private=true" />
 </p>
 
 ### GitHub Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farihazultana&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farihazultana&theme=synthwave&show_icons=false&hide_border=false&count_private=true"/>
 </p>
 
 ---
@@ -63,17 +63,17 @@
 
 ### Top Languages
 <p align="center">
-	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farihazultana&theme=github" />
-	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farihazultana&theme=github" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <P align="center">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=farihazultana" alt="Total time coded since Jul 07 2023" />
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Total time coded since Jul 07 2023" />
 </P>
 
 ---
 
 ### Top Commits
 <p align="center">
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farihazultana&theme=github&utcOffset=6" />
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true&utcOffset=6" />
 </p>
