@@ -68,7 +68,7 @@
 </p>
 
 <P align="center">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Total time coded since Jul 07 2023" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Total time coded since Jul 07 2023" />
 </P>
 
 ---
