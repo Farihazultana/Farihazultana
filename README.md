@@ -4,7 +4,7 @@
   <p align="right"><img align="right" height="250" width="350" alt="Fariha Sultana" style="margin-top: 10px" src="./giphy.gif" /></p>
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/Farihazultana/Coffee-Order-App">Coffee Order App</a></li>
-    <li>🌱 I’m currently learning <strong>Flutter Cross Platform</strong></li>
+    <li>🌱 I’m currently learning <strong>Cross Platform : Flutter</strong></li>
     <li>👯 I’m looking to collaborate on <a href="https://github.com/DesktopItOfficial/carbon-foot-print">Carbon Footprint Tracker App</a></li>
     <li>🤝 I’m looking for help with <a href="https://github.com/Farihazultana/Uber-Clone">Uber-Clone</a></li>
     <li>💬 Ask me about <strong>Java, Android Development</strong></li>
@@ -13,7 +13,7 @@
   </ul>
 </p>
 <span align="left"> <img src="https://visitcount.itsvg.in/api?id=farihazultana&icon=5&color=10" alt="farihazultana"/> 
-</span><a href="https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg" alt="Total time coded since Jun 19 2023" /></a>
+</span><a href="https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg?&style=social" alt="Total time coded since Jun 19 2023" style="width:135px;height:23px;" /></a>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/farihazultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farihazultana" height="30" width="40" /></a>
@@ -89,12 +89,12 @@
 ---
 ### GitHub Trophies
 <p align="center">
-	<img width="48%" src="https://github-profile-trophy.vercel.app/?username=farihazultana&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
+	<img width="50%" src="https://github-profile-trophy.vercel.app/?username=farihazultana&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
 
 ### Random Dev Quote
 <p align="center">
-	<img height="48%" src= "https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
+	<img height="18%" width="28%" src= "https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
 </p>
