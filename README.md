@@ -13,7 +13,7 @@
   </ul>
 </p>
 <span align="left"> <img src="https://visitcount.itsvg.in/api?id=farihazultana&icon=5&color=10" alt="farihazultana"/> 
-</span><a href="https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg?&style=social" alt="Total time coded since Jun 19 2023" style="width:135px;height:23px;" /></a>
+</span><a href="https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg?&style=social" alt="Total time coded since Jun 19 2023" style="width:140px;height:25px;" /></a>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/farihazultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farihazultana" height="30" width="40" /></a>
@@ -48,7 +48,7 @@
 <hr>
 
 ### GitHub Stats
-<p align="left">
+<p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farihazultana&theme=synthwave&show_icons=false&hide_border=true&count_private=true" />
 </p>
