@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fariha Sultana</h1>
+<h1 align="center">Here's <a href="https://imgbb.com/"><img src="https://i.ibb.co/Dky8M6f/textanim-MS6-EB.gif" alt="textanim-MS6-EB" border="0"></a>🤪</h1>
 <h3 align="center">A passionate Mobile App Developer from Bangladesh!</h3>
 <p align="center">
   <p align="right"><img align="right" height="250" width="350" alt="Fariha Sultana" style="margin-top: 10px" src="./giphy.gif" /></p>
@@ -13,7 +13,7 @@
   </ul>
 </p>
 <span align="left"> <img src="https://visitcount.itsvg.in/api?id=farihazultana&icon=5&color=10" alt="farihazultana"/> 
-</span><a href="https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg?&style=social" alt="Total time coded since Jun 19 2023" style="width:140px;height:25px;" /></a>
+</span><a href="https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg?&style=social" alt="Total time coded since Jun 19 2023" style="width:145px;height:24px;" /></a>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/farihazultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farihazultana" height="30" width="40" /></a>
