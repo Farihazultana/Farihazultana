@@ -12,7 +12,7 @@
     <li>⚡ Fun fact: Sometimes I draw and sketch</li>
   </ul>
 </p>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=farihazultana&label=Profile%20views&color=0e75b6&style=flat" alt="farihazultana"/> 
+<span align="left"> <img src="https://visitcount.itsvg.in/api?id=farihazultana&icon=5&color=10" alt="farihazultana"/> 
 </span><a href="https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg" alt="Total time coded since Jun 19 2023" /></a>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
@@ -67,8 +67,16 @@
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
+
 <P align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Total time coded since Jul 07 2023" />
+</P>
+
+---
+
+### Top Contributed Repo
+<P align="center">
+   	<img width="48%" src="https://github-contributor-stats.vercel.app/api?username=farihazultana&limit=5&theme=synthwave&combine_all_yearly_contributions=true"/>
 </P>
 
 ---
@@ -76,4 +84,17 @@
 ### Top Commits
 <p align="center">
 	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true&utcOffset=6" />
+</p>
+
+---
+### GitHub Trophies
+<p align="center">
+	<img width="48%" src="https://github-profile-trophy.vercel.app/?username=farihazultana&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+### Random Dev Quote
+<p align="center">
+	<img height="48%" src= "https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
 </p>
