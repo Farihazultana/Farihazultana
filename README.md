@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/Dky8M6f/textanim-MS6-EB.gif" alt="textanim-MS6-EB" border="0"></a></h1>
-<h3 align="center">A passionate Mobile App Developer from Bangladesh!</h3>
+<h3 align="center">A passionate Mobile App Developer from Bangladesh <img width="30" alt="BD" src="./bangladesh-flag.gif" /></h3>
 <p align="center">
   <p align="right"><img align="right" height="250" width="350" alt="Fariha Sultana" style="margin-top: 10px" src="./giphy.gif" /></p>
   <ul>
