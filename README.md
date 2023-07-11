@@ -12,8 +12,9 @@
     <li>⚡ Fun fact: Sometimes I draw and sketch</li>
   </ul>
 </p>
-<span align="left"> <img src="https://visitcount.itsvg.in/api?id=farihazultana&icon=5&color=10" alt="farihazultana"/> 
-</span><a href="https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg?&style=social" alt="Total time coded since Jun 19 2023" style="width:145px;height:24px;" /></a>
+<br>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=farihazultana&label=Profile%20views&color=FF90BB&style=flat" style="width:145px; height:24px" alt="farihazultana"/>   </span><a href="https://wakatime.com/@688cf811-585a-4137-965d-661ac0133dfb"><img src="https://wakatime.com/badge/user/688cf811-585a-4137-965d-661ac0133dfb.svg?&style=flat" alt="Total time coded since Jun 19 2023" style="width:145px;height:24px;" /></a>
+<br>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/farihazultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farihazultana" height="30" width="40" /></a>
