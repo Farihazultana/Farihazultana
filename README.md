@@ -67,7 +67,7 @@
 
 <P align="center">
 	<img width="38%" src="https://github-readme-stats.vercel.app/api/wakatime?username=farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Total time coded since Jul 07 2023" />
-	<img width="48%" src="https://wakatime.com/share/@farihazultana/735cc990-55da-4798-a182-43c7139d7197.svg"></img>
+	<img width="48%" src="https://wakatime.com/share/@farihazultana/5643bc09-4e9d-41f9-8fb1-281f3a63f676.svg"></img>
 </P>
 
 
