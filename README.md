@@ -64,12 +64,12 @@
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
-
+<!--
 <P align="center">
 	<img width="38%" src="https://github-readme-stats.vercel.app/api/wakatime?username=farihazultana&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Total time coded since Jul 07 2023" />
 	<img width="48%" src="https://wakatime.com/share/@farihazultana/5643bc09-4e9d-41f9-8fb1-281f3a63f676.svg"></img>
 </P>
-
+-->
 
 ---
 
